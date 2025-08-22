@@ -41,11 +41,6 @@ Our vision is to revolutionize subscription-based business models by leveraging 
 - **AI-powered Insights**: Predictive analytics for churn prevention
 - **Mobile SDK**: Native mobile app development tools
 
-## Contract Address
-
-**Mainnet**: `[To be deployed]`
-**Testnet**: `[To be deployed]`
-
 ### Deployment Instructions
 
 1. **Prerequisites**
